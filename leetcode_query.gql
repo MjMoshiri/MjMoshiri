@@ -1,0 +1,57 @@
+query UserQuery(
+  $username: String!, 
+  $orderBy: TopicSortingOption, 
+  $skip: Int, 
+  $first: Int, 
+  $userSlug: String!
+) {
+  userPublicProfile: matchedUser(username: $username) {
+    contestBadge {
+      name
+      hoverText
+      icon
+    }
+    profile {
+      postViewCount
+      reputation
+      solutionCount
+    }
+  }
+  languageStats: matchedUser(username: $username) {
+    languageProblemCount {
+      languageName
+      problemsSolved
+    }
+  }
+  userContestRankingInfo: userContestRanking(username: $username) {
+    topPercentage
+  }
+  userSessionProgress: allQuestionsCount {
+    difficulty
+    count
+  }
+    userProfileUserQuestionProgressV2: userProfileUserQuestionProgressV2(userSlug: $userSlug) {
+    numAcceptedQuestions {
+      count
+      difficulty
+    }
+    userSessionBeatsPercentage {
+      difficulty
+      percentage
+    }
+  }
+  userSolutionTopics: userSolutionTopics(
+    username: $username
+    orderBy: $orderBy
+    skip: $skip
+    first: $first
+  ) {
+    edges {
+      node {
+        title
+        url
+        questionTitle
+      }
+    }
+  }
+}
