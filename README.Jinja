@@ -1,0 +1,18 @@
+# About Me
+
+## LeetCode
+- Top Percentage Rating: {{ data.userContestRankingInfo.topPercentage }}%
+- ![Streak](https://image.flaticon.com/icons/png/512/123/123123.png) Streak: 300 Days
+![{{ data.userPublicProfile.contestBadge.hoverText }}](https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }})
+{% for lang in data.languageStats.languageProblemCount %}
+    {%- if lang.languageName in ['C++', 'Java', 'Python3', 'Go'] %}
+![{{ lang.languageName }}](https://img.shields.io/badge/{{ lang.languageName }}-%20{{ lang.problemsSolved }}-333333?colorA=4CAF50)
+    {%- else %}
+    {%- endif %}
+{%- endfor %}
+## Difficulty Stats
+{% for difficulty in data.userProfileUserQuestionProgressV2.userSessionBeatsPercentage %}
+- {{ difficulty.difficulty }} Difficulty: {{ difficulty.percentage }}% of Peers Beaten
+{% endfor %}
+
+## Projects
