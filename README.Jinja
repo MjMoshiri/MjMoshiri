@@ -1,18 +1,48 @@
-# About Me
-
-## LeetCode
-- Top Percentage Rating: {{ data.userContestRankingInfo.topPercentage }}%
-- ![Streak](https://image.flaticon.com/icons/png/512/123/123123.png) Streak: 300 Days
-![{{ data.userPublicProfile.contestBadge.hoverText }}](https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }})
-{% for lang in data.languageStats.languageProblemCount %}
-    {%- if lang.languageName in ['C++', 'Java', 'Python3', 'Go'] %}
-![{{ lang.languageName }}](https://img.shields.io/badge/{{ lang.languageName }}-%20{{ lang.problemsSolved }}-333333?colorA=4CAF50)
-    {%- else %}
-    {%- endif %}
-{%- endfor %}
-## Difficulty Stats
-{% for difficulty in data.userProfileUserQuestionProgressV2.userSessionBeatsPercentage %}
-- {{ difficulty.difficulty }} Difficulty: {{ difficulty.percentage }}% of Peers Beaten
-{% endfor %}
-
-## Projects
+<div class="row" align="center">
+  <h1> Welcome, I'm MJ! 👋</h1>
+  <p>I'm passionate about problem-solving and coaxing machines to help me achive things. Together these led me to a career in Software Engineering.</p>
+  <p>Below, you can explore my projects and accomplishments. Enjoy your visit!</p>
+  <h2> Algorithm Highlight (LeetCode)</h2>
+  <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
+  <div class="col" style="margin-right: 25px;">
+    <img src="https://img.shields.io/badge/Contest%20Ranking-{{ data.userContestRankingInfo.topPercentage }}%25-4CAF50" alt="Top Percentage">
+    <img src="https://img.shields.io/badge/Streak%20Counter-{{ data.streakCounter }}-FF5722" alt="Streak Counter">
+  </div>
+  <div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; align-items: center;">
+    <table style="border: none;">
+      <tr>
+        <td align="right" style="border: none;">
+          <img src="https://img.shields.io/badge/Views-{{ data.userPublicProfile.profile.postViewCount }}-cyan" alt="Views">
+          <img src="https://img.shields.io/badge/AC Count-{{ data.totalAcceptedQuestions }}-orange" alt="AC">
+        </td>
+      </tr>
+      <tr>
+        <td align="right" style="border: none;">
+          <img src="https://img.shields.io/badge/C++-{{ data.languageStats['C++'] }}-informational" alt="C++ Problems Solved">
+          <img src="https://img.shields.io/badge/Java-{{ data.languageStats['Java'] }}-informational" alt="Java Problems Solved">
+        </td>
+      </tr>
+    </table>
+    <a href="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}"><img src="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}" alt="Contest Badge"></a>
+    <table style="border: none;">
+      <tr>
+        <td align="right" style="border: none;">
+          <img src="https://img.shields.io/badge/Reputation-{{ data.userPublicProfile.profile.reputation }}-brightgreen" alt="Reputation">
+          <img src="https://img.shields.io/badge/Solutions-{{ data.userPublicProfile.profile.solutionCount }}-red" alt="Solutions">
+        </td>
+      </tr>
+      <tr>
+        <td align="left" style="border: none;">
+          <img src="https://img.shields.io/badge/Go-{{ data.languageStats['Go'] }}-informational" alt="Go Problems Solved">
+          <img src="https://img.shields.io/badge/Python3-{{ data.languageStats['Python3'] }}-informational" alt="Python3 Problems Solved">
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div class="col" align="center">
+    {%- for difficulty in data.userProfileUserQuestionProgressV2.userSessionBeatsPercentage -%}
+    <img src="https://img.shields.io/badge/{{ difficulty.difficulty }}%20-{{ difficulty.percentage }}%25-blueviolet" alt="{{ difficulty.difficulty }} Difficulty">
+    {% endfor %}
+  </div>
+  <h2> Projects</h2>
+</div>

@@ -7,8 +7,6 @@ query UserQuery(
 ) {
   userPublicProfile: matchedUser(username: $username) {
     contestBadge {
-      name
-      hoverText
       icon
     }
     profile {
@@ -26,18 +24,14 @@ query UserQuery(
   userContestRankingInfo: userContestRanking(username: $username) {
     topPercentage
   }
-  userSessionProgress: allQuestionsCount {
-    difficulty
-    count
-  }
-    userProfileUserQuestionProgressV2: userProfileUserQuestionProgressV2(userSlug: $userSlug) {
-    numAcceptedQuestions {
-      count
-      difficulty
-    }
+  userProfileUserQuestionProgressV2: userProfileUserQuestionProgressV2(userSlug: $userSlug) {
     userSessionBeatsPercentage {
       difficulty
       percentage
+    }
+    numAcceptedQuestions {
+      count
+      difficulty
     }
   }
   userSolutionTopics: userSolutionTopics(
