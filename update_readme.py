@@ -32,5 +32,5 @@ template = env.get_template("README.Jinja")
 
 rendered_template = template.render(data=query_result)
 
-with open("README_Temp.md", "w") as readme_file:
+with open("README.md", "w") as readme_file:
     readme_file.write(rendered_template)
