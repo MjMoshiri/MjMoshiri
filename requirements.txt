@@ -1,3 +1,4 @@
 gql
 requests
 jinja2
+requests_toolbelt
