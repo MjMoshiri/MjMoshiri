@@ -1,47 +1,39 @@
-<div class="row" align="center">
-  <h1> Welcome, I'm MJ! 👋</h1>
-  <p>I'm passionate about problem-solving and coaxing machines to help me achive things. Together these led me to a career in Software Engineering.</p>
-  <p>Below, you can explore my projects and accomplishments. Enjoy your visit!</p>
+<div align="center">
+  <h1> Welcome, I'm MJ! 👋
+  </h1>
+  <p>I'm passionate about problem-solving and coaxing machines to help me achieve things. Together these led me to a
+    career in Software Engineering. Below, you can explore my projects and accomplishments. <br><br>  <img
+      src="https://visitor-badge.laobi.icu/badge?page_id=mjmoshiri.mjmoshiri&left_text=Enjoy%20your%20visit!" alt="visitors">
+  </p>
   <h2> Algorithm Highlight (LeetCode)</h2>
   <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
-  <div class="col" style="margin-right: 25px;">
-    <img src="https://img.shields.io/badge/Contest%20Ranking-{{ data.userContestRankingInfo.topPercentage }}%25-4CAF50" alt="Top Percentage">
+  <div>
+    <img src="https://img.shields.io/badge/Contest%20Ranking-{{ data.userContestRankingInfo.topPercentage }}%25-4CAF50"
+      alt="Top Percentage">
     <img src="https://img.shields.io/badge/Streak%20Counter-{{ data.streakCounter }}-FF5722" alt="Streak Counter">
   </div>
-  <div style="display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: center; align-items: center;">
-    <table style="border: none;">
-      <tr>
-        <td align="right" style="border: none;">
-          <img src="https://img.shields.io/badge/Views-{{ data.userPublicProfile.profile.postViewCount }}-cyan" alt="Views">
-          <img src="https://img.shields.io/badge/AC Count-{{ data.totalAcceptedQuestions }}-orange" alt="AC">
-        </td>
-      </tr>
-      <tr>
-        <td align="right" style="border: none;">
-          <img src="https://img.shields.io/badge/C++-{{ data.languageStats['C++'] }}-informational" alt="C++ Problems Solved">
-          <img src="https://img.shields.io/badge/Java-{{ data.languageStats['Java'] }}-informational" alt="Java Problems Solved">
-        </td>
-      </tr>
-    </table>
-    <a href="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}"><img src="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}" alt="Contest Badge"></a>
-    <table style="border: none;">
-      <tr>
-        <td align="right" style="border: none;">
-          <img src="https://img.shields.io/badge/Reputation-{{ data.userPublicProfile.profile.reputation }}-brightgreen" alt="Reputation">
-          <img src="https://img.shields.io/badge/Solutions-{{ data.userPublicProfile.profile.solutionCount }}-red" alt="Solutions">
-        </td>
-      </tr>
-      <tr>
-        <td align="left" style="border: none;">
-          <img src="https://img.shields.io/badge/Go-{{ data.languageStats['Go'] }}-informational" alt="Go Problems Solved">
-          <img src="https://img.shields.io/badge/Python3-{{ data.languageStats['Python3'] }}-informational" alt="Python3 Problems Solved">
-        </td>
-      </tr>
-    </table>
+  <div>
+    <img src="https://img.shields.io/badge/Views-{{ data.userPublicProfile.profile.postViewCount }}-cyan" alt="Views">
+    <img src="https://img.shields.io/badge/AC Count-{{ data.totalAcceptedQuestions }}-orange" alt="AC">
+    <img src="https://img.shields.io/badge/Reputation-{{ data.userPublicProfile.profile.reputation }}-brightgreen"
+      alt="Reputation">
+    <img src="https://img.shields.io/badge/Solutions-{{ data.userPublicProfile.profile.solutionCount }}-red"
+      alt="Solutions">
+    <br>
+    <a href="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}"><img
+        src="https://leetcode.com{{ data.userPublicProfile.contestBadge.icon }}" alt="Contest Badge"></a>
+    <br>
+    <img src="https://img.shields.io/badge/C++-{{ data.languageStats['C++'] }}-informational" alt="C++ Problems Solved">
+    <img src="https://img.shields.io/badge/Java-{{ data.languageStats['Java'] }}-informational"
+      alt="Java Problems Solved">
+    <img src="https://img.shields.io/badge/Go-{{ data.languageStats['Go'] }}-informational" alt="Go Problems Solved">
+    <img src="https://img.shields.io/badge/Python3-{{ data.languageStats['Python3'] }}-informational"
+      alt="Python3 Problems Solved">
   </div>
-  <div class="col" align="center">
+  <div align="center">
     {%- for difficulty in data.userProfileUserQuestionProgressV2.userSessionBeatsPercentage -%}
-    <img src="https://img.shields.io/badge/{{ difficulty.difficulty }}%20-{{ difficulty.percentage }}%25-blueviolet" alt="{{ difficulty.difficulty }} Difficulty">
+    <img src="https://img.shields.io/badge/{{ difficulty.difficulty }}%20-{{ difficulty.percentage }}%25-blueviolet"
+      alt="{{ difficulty.difficulty }} Difficulty">
     {% endfor %}
   </div>
   <h2> Projects</h2>
