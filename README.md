@@ -1,15 +1,18 @@
 <div align="center">
-  <h1> Welcome, I'm MJ! 👋
+  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=4BB543&background=FFDE7C00&center=true&vCenter=true&random=false&width=435&lines=Welcome!+I'm+MJ+%F0%9F%A4%9D" alt="Typing SVG" /></a>
   </h1>
-  <p>I'm passionate about problem-solving and coaxing machines to help me achieve things. Together these led me to a
-    career in Software Engineering. Below you can see some Highlights about me. <br><br> <img
+  <p style="font-size: 1.5em;" >Passionate about problem solving and coaxing machines. <br>
+    </p>
+    <p style="font-size: 2em;">🖥️ Backend  ☁️ Cloud  🛠️ DevOps  🤖 ML/AI</p>
+    <img
       src="https://visitor-badge.laobi.icu/badge?page_id=mjmoshiri.mjmoshiri&left_text=Enjoy%20your%20visit!"
       alt="visitors">
-  </p>
-    <h2>Me as an Earther</h2>
-  📘 Love Learning, 🧠 Psychology, 📖 Life Stories (Including Yours), 📺 Sitcoms, <br>🧩 Puzzles, 😄 A Good Laugh, 🌀 Mild ADHD (Maybe
-  ADSD?),<br> 🌍 Making an Impact, 🎨 Creative, 🌐 International, ☮️ Peace
-  <h2> Algorithm Highlight (LeetCode)</h2>
+    <h2>Stack</h2>
+    <br>
+      <p align="center">
+          <img src="https://skillicons.dev/icons?i=py,docker,aws,go,java,spring,cpp,bash,ts,react,linux,postgres&perline=6"/>  
+      </p>
+      <h2> Algorithm Highlight</h2>
   <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-3.45%25-4CAF50"
@@ -17,8 +20,8 @@
     <img src="https://img.shields.io/badge/Streak%20Counter-327-FF5722" alt="Streak Counter">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Views-4015-cyan" alt="Views">
-    <img src="https://img.shields.io/badge/AC Count-793-orange" alt="AC">
+    <img src="https://img.shields.io/badge/Views-4016-cyan" alt="Views">
+    <img src="https://img.shields.io/badge/AC Count-796-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-48-brightgreen"
       alt="Reputation">
     <img src="https://img.shields.io/badge/Solutions-59-red"
@@ -27,22 +30,24 @@
     <a href="https://leetcode.com/static/images/badges/knight.png"><img
         src="https://leetcode.com/static/images/badges/knight.png" alt="Contest Badge"></a>
     <br>
-    <img src="https://img.shields.io/badge/C++-258-informational" alt="C++ Problems Solved">
+    <img src="https://img.shields.io/badge/C++-261-informational" alt="C++ Problems Solved">
     <img src="https://img.shields.io/badge/Java-292-informational"
       alt="Java Problems Solved">
     <img src="https://img.shields.io/badge/Go-179-informational" alt="Go Problems Solved">
     <img src="https://img.shields.io/badge/Python3-180-informational"
       alt="Python3 Problems Solved">
   </div>
-  <div align="center"><img src="https://img.shields.io/badge/EASY%20-98.99%25-blueviolet"
+  <div align="center"><img src="https://img.shields.io/badge/EASY%20-99%25-blueviolet"
       alt="EASY Difficulty">
-    <img src="https://img.shields.io/badge/MEDIUM%20-98.64%25-blueviolet"
+    <img src="https://img.shields.io/badge/MEDIUM%20-98%25-blueviolet"
       alt="MEDIUM Difficulty">
-    <img src="https://img.shields.io/badge/HARD%20-99.09%25-blueviolet"
+    <img src="https://img.shields.io/badge/HARD%20-99%25-blueviolet"
       alt="HARD Difficulty">
     
   </div>
-  <h2>Coding Keywords</h2>
-  🧑‍💻 JVM (Kotlin, Java, Scala), 🖥️ Microservices, 🚀 Go, C++, <br> 📜 Scripting, 🐍 Python, 🐚 Bash, 🌐 Web, 🙌
-  Shoutout to Microsoft for TypeScript, <br> 🤖ML/AI, 📊 Data, 🗂️ SQL, 🧩 Problem Solving, 📏 Minimal, 🔄 Agile
+  <h2>As an Earther</h2>
+  <span style="font-size: 1.5em;">
+  📘 Love Learning, 🧠 Psychology, 📖 Life Stories, 📺 Sitcoms, <br>🧩 Puzzles, 😄 A Good Laugh, 🌀 Mild ADHD (Maybe
+  ADSD?),<br> 🌍 Making an Impact, 🎨 Creative, 🌐 International, ☮️ Peace
+  </span>
 </div>
