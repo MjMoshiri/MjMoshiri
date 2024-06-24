@@ -3,7 +3,7 @@
   </h1>
   <h4 >Passionate about problem solving and coaxing machines.
     </h4>
-    <h3>🖥️ Backend  ☁️ Cloud  🛠️ DevOps  🤖 ML/AI</h3>
+    <h3>🖥️ Backend  🤖 ML/AI  ☁️ Cloud  🛠️ DevOps</h3>
     Click <a href="https://github.com/MjMoshiri/ProfessionalDevelopmentDiary?tab=readme-ov-file#learning-in-progress">here</a> to see what I'm learning these days.<br><br>
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=mjmoshiri.mjmoshiri&left_text=Enjoy%20your%20visit!"
@@ -18,11 +18,11 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.9%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-360-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-361-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4030-cyan" alt="Views">
-    <img src="https://img.shields.io/badge/AC Count-834-orange" alt="AC">
+    <img src="https://img.shields.io/badge/AC Count-835-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-49-brightgreen"
       alt="Reputation">
     <img src="https://img.shields.io/badge/Solutions-61-red"
@@ -31,7 +31,7 @@
     <a href="https://leetcode.com/static/images/badges/knight.png"><img
         src="https://leetcode.com/static/images/badges/knight.png" alt="Contest Badge"></a>
     <br>
-    <img src="https://img.shields.io/badge/C++-294-informational" alt="C++ Problems Solved">
+    <img src="https://img.shields.io/badge/C++-295-informational" alt="C++ Problems Solved">
     <img src="https://img.shields.io/badge/Java-298-informational"
       alt="Java Problems Solved">
     <img src="https://img.shields.io/badge/Go-179-informational" alt="Go Problems Solved">
