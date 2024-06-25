@@ -1,0 +1,49 @@
+\documentclass[12pt, letterpaper]{report}
+
+% Packages
+\usepackage{fontawesome}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\input{jobs}
+\input{skills}
+\input{education}
+\input{certifications}
+\input{styles}
+\input{headers}
+
+
+% Font options
+
+\pdfgentounicode=1
+
+
+
+\begin{document}
+\onlineHeader
+\vspace{-.8cm}
+\section{\faBriefcase \space PROFESSIONAL EXPERIENCE}
+\resumeSubHeadingList
+\treon
+\tampere
+\nokia
+\resumeSubHeadingListEnd
+\vspace{-.8cm}
+\newlength{\rowSpace}
+\setlength{\rowSpace}{1.8mm}
+\section{\faPuzzlePiece\space SKILLS}
+\generalSkills
+\vspace{-.6cm}
+\section{\faGraduationCap\space EDUCATION}
+\resumeSubHeadingList
+\eduTampere
+\eduNodet
+\resumeSubHeadingListEnd
+\section{\faBook\space FURTHER STUDIES \& CERTIFICATION}
+\certGeneral
+\end{document}
