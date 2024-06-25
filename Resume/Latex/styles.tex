@@ -10,10 +10,21 @@
     \end{tabular*}
     \vspace{-0.3cm}
 }
-
 % Commands for resume subheading lists
 \newcommand{\resumeSubHeadingList}{\begin{itemize}[leftmargin=0.05in, label={}]}
 \newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\project}[5]{
+  \resumeSubheading
+      {\href{#1}{#2\space\faExternalLink}}{\textit{#3}}
+      {#4}{}
+      \vspace{4mm}
+        \begin{minipage}{0.97\linewidth}
+          \begin{spacing}{1.2}
+            #5
+          \end{spacing}
+        \end{minipage}
+     \vspace{-5mm}
+}
 
 \usepackage[sfdefault]{roboto} % Sans-serif font
 \usepackage{array}
