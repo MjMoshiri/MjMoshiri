@@ -18,7 +18,7 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.86%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-405-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-406-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4074-cyan" alt="Views">
@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Java-299-informational"
       alt="Java Problems Solved">
     <img src="https://img.shields.io/badge/Go-181-informational" alt="Go Problems Solved">
-    <img src="https://img.shields.io/badge/Python3-192-informational"
+    <img src="https://img.shields.io/badge/Python3-193-informational"
       alt="Python3 Problems Solved">
   </div>
   <div align="center"><img src="https://img.shields.io/badge/EASY%20-99%25-blueviolet"
