@@ -18,11 +18,11 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.24%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-523-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-524-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4439-cyan" alt="Views">
-    <img src="https://img.shields.io/badge/AC Count-997-orange" alt="AC">
+    <img src="https://img.shields.io/badge/AC Count-998-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-52-brightgreen"
       alt="Reputation">
     <img src="https://img.shields.io/badge/Solutions-63-red"
