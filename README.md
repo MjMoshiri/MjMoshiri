@@ -18,11 +18,11 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.25%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-538-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-539-FF5722" alt="Streak Counter">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Views-4451-cyan" alt="Views">
-    <img src="https://img.shields.io/badge/AC Count-1013-orange" alt="AC">
+    <img src="https://img.shields.io/badge/Views-4456-cyan" alt="Views">
+    <img src="https://img.shields.io/badge/AC Count-1015-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-52-brightgreen"
       alt="Reputation">
     <img src="https://img.shields.io/badge/Solutions-64-red"
@@ -32,7 +32,7 @@
         src="https://leetcode.com/static/images/badges/knight.png" alt="Contest Badge"></a>
     <br>
     <img src="https://img.shields.io/badge/C++-351-informational" alt="C++ Problems Solved">
-    <img src="https://img.shields.io/badge/Java-311-informational"
+    <img src="https://img.shields.io/badge/Java-313-informational"
       alt="Java Problems Solved">
     <img src="https://img.shields.io/badge/Go-182-informational" alt="Go Problems Solved">
     <img src="https://img.shields.io/badge/Python3-254-informational"
