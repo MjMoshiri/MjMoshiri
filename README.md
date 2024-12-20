@@ -16,13 +16,13 @@
       <h2> Algorithm Highlight</h2>
   <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
   <div>
-    <img src="https://img.shields.io/badge/Contest%20Ranking-2.25%25-4CAF50"
+    <img src="https://img.shields.io/badge/Contest%20Ranking-2.24%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-539-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-540-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4456-cyan" alt="Views">
-    <img src="https://img.shields.io/badge/AC Count-1015-orange" alt="AC">
+    <img src="https://img.shields.io/badge/AC Count-1016-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-52-brightgreen"
       alt="Reputation">
     <img src="https://img.shields.io/badge/Solutions-64-red"
