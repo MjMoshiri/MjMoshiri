@@ -4,7 +4,6 @@
   <h4 >Passionate about problem solving and coaxing machines.
     </h4>
     <h3>🖥️ Backend  🤖 ML/AI  ☁️ Cloud  🛠️ DevOps</h3>
-    Click <a href="https://github.com/MjMoshiri/ProfessionalDevelopmentDiary?tab=readme-ov-file#learning-in-progress">here</a> to see what I'm learning these days.<br><br>
     <img
       src="https://visitor-badge.laobi.icu/badge?page_id=mjmoshiri.mjmoshiri&left_text=Enjoy%20your%20visit!"
       alt="visitors">
