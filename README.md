@@ -15,9 +15,9 @@
       <h2> Algorithm Highlight</h2>
   <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
   <div>
-    <img src="https://img.shields.io/badge/Contest%20Ranking-2.22%25-4CAF50"
+    <img src="https://img.shields.io/badge/Contest%20Ranking-2.2%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-602-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-603-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4511-cyan" alt="Views">
