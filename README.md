@@ -17,10 +17,10 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.18%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-634-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-635-FF5722" alt="Streak Counter">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Views-4529-cyan" alt="Views">
+    <img src="https://img.shields.io/badge/Views-4530-cyan" alt="Views">
     <img src="https://img.shields.io/badge/AC Count-1041-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-54-brightgreen"
       alt="Reputation">
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/C++-355-informational" alt="C++ Problems Solved">
     <img src="https://img.shields.io/badge/Java-319-informational"
       alt="Java Problems Solved">
-    <img src="https://img.shields.io/badge/Go-183-informational" alt="Go Problems Solved">
+    <img src="https://img.shields.io/badge/Go-184-informational" alt="Go Problems Solved">
     <img src="https://img.shields.io/badge/Python3-268-informational"
       alt="Python3 Problems Solved">
   </div>
