@@ -17,7 +17,7 @@
   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.17%25-4CAF50"
       alt="Top Percentage">
-    <img src="https://img.shields.io/badge/Streak%20Counter-669-FF5722" alt="Streak Counter">
+    <img src="https://img.shields.io/badge/Streak%20Counter-670-FF5722" alt="Streak Counter">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Views-4556-cyan" alt="Views">
