@@ -14,13 +14,13 @@
       </p>
       <h2> Algorithm Highlight</h2>
   <h3><a href="https://leetcode.com/MJMTG/">MJMTG</a></h3>
-  <div>
+<!--   <div>
     <img src="https://img.shields.io/badge/Contest%20Ranking-2.14%25-4CAF50"
       alt="Top Percentage">
     <img src="https://img.shields.io/badge/Streak%20Counter-718-FF5722" alt="Streak Counter">
-  </div>
+  </div> -->
   <div>
-    <img src="https://img.shields.io/badge/Views-4566-cyan" alt="Views">
+<!--     <img src="https://img.shields.io/badge/Views-4566-cyan" alt="Views"> -->
     <img src="https://img.shields.io/badge/AC Count-1061-orange" alt="AC">
     <img src="https://img.shields.io/badge/Reputation-54-brightgreen"
       alt="Reputation">
