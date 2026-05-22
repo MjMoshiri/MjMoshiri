@@ -2,11 +2,9 @@
 
 Applied ML engineer focused on LLMs, autonomous systems, and building products that turn models into useful tools.
 
-I build full-stack systems and coax machines into doing useful things.
-
-> “Although the landscape of technologies for processing and storing data is diverse and fast-changing, the underlying principles endure.”
+> “Although the landscape of technologies for processing and storing data is diverse and fast-changing, the underlying principles endure. If you understand those principles, you’re in a position to see where each tool fits in, how to make good use of it, and how to avoid its pitfalls.”
 >
-> — Martin Kleppmann, Designing Data-Intensive Applications
+> — Martin Kleppmann, *Designing Data-Intensive Applications*
 
 <sub>📍 San Francisco Bay Area • [LinkedIn](https://linkedin.com/in/mjmoshiri)</sub>
 
