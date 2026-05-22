@@ -6,7 +6,7 @@ Applied ML engineer focused on LLMs, autonomous systems, and building products t
 >
 > — Martin Kleppmann, *Designing Data-Intensive Applications*
 
-<sub>📍 San Francisco Bay Area • [LinkedIn](https://linkedin.com/in/mjmoshiri)</sub>
+<sub>📍 San Francisco • [LinkedIn](https://linkedin.com/in/mjmoshiri)</sub>
 
 ## Code
 
